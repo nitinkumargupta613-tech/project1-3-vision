@@ -99,8 +99,8 @@ def send_to_esp32(command):
 # so regenerate it through BotFather and put the NEW token here.
 #
 
-TELEGRAM_BOT_TOKEN = "8923452690:AAFsNiM0a1M3IoBkmZZVpkALzKkwDq5DzFU"
-TELEGRAM_CHAT_ID = "1897125381"
+TELEGRAM_BOT_TOKEN = "YOUR_TOKEN"
+TELEGRAM_CHAT_ID = "YOUR_CHAT_ID"
 
 
 telegram_camera_sent = False
